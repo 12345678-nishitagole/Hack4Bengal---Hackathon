@@ -1,0 +1,4 @@
+REACT_APP_MORALIS_SERVER="https://1urwrj046o9n.usemoralis.com:2053/server"
+REACT_APP_APP_ID="ecCDGyMv4iEQDZKkQNO9CPifiwErq9L4bwn6KJKe"
+REACT_APP_AUTH0_DOMAIN=dev-n-zgkz0u.us.auth0.com
+REACT_APP_AUTH0_CLIENT_ID=4lUtwFWcrm4AFN6Jas1j2isMdaOvW9H2
